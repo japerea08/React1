@@ -1,0 +1,18 @@
+.navbar{
+	background: black;
+	color: #fff;
+}
+
+li{
+	display: inline-block;
+    padding: 26px 0;
+    width: 33.3%;
+    text-align: center;
+    font-weight: 900;
+    font-size: 25px;
+}
+
+ul{
+	display: block;
+	width: 100%;
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Rick Grimes",
+    "image" : "../images/rick.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Abraham",
+    "image" : "../images/abraham.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Carol",
+    "image" : "../images/carol.jpg"
+  },
+   {
+    "id": 4,
+    "name": "Daryl",
+    "image" : "../images/daryl.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Glenn",
+    "image" : "../images/glenn.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Governor",
+    "image" : "../images/governor.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Maggie",
+    "image" : "../images/maggie.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Michonne",
+    "image" : "../images/michonne.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Morgan",
+    "image" : "../images/morgan.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Negan",
+    "image" : "../images/negan.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Sasha",
+    "image" : "../images/sasha.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Shane",
+    "image" : "../images/shane.jpg"
+  }
+]
